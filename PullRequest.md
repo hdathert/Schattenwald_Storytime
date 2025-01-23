@@ -5,3 +5,6 @@ Michael Reyes (mjreyesl) created a pull request for team Erdmann's story: https:
 Hank Atherton (hdathert) created a pull request for team Ruebezahl's story: https://github.com/EdwinBMV/RUEBEZAHL-Story-Time/pull/5
 
 Anthony Martin (aymart11) created a pull request for team Lorelei's story: https://github.com/mkrasnik2001/lorelei-ice-breaker/pull/10
+
+Jordan Swartz (Jordan-Swartz) created a pull request for team Sonnenkind's story: https://github.com/kdiazcac/sonnenkind-german-story/pull/7#issue-2808074321
+
