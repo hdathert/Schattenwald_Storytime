@@ -6,3 +6,5 @@ Hank Atherton (hdathert) created a pull request for team Ruebezahl's story: http
 
 Anthony Martin (aymart11) created a pull request for team Lorelei's story: 
 https://github.com/mkrasnik2001/lorelei-ice-breaker/pull/10
+
+Jordan Swartz (Jordan-Swartz) created a pull request for team Sonnenkind's story: https://github.com/kdiazcac/sonnenkind-german-story/pull/7#issue-2808074321
